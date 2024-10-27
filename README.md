@@ -9,7 +9,7 @@ Proyecto Modulo 1 Equipo 2 WONDERLAB
 Este repositorio contiene un juego interactivo-lúdico implementado en Python. Consiste en adivinar las capitales de los países europeos.
 
 ### Juego: CAP-IT ###
-Objetivo: Responder correctamente a 9 preguntas sobre las capitales de Europa, las preguntas son a respuesta cerrada y se dividen en sencillas, medianas y complejas. Cada nivel de dificultad lleva el nombre de un explorador, el nivel más fácil es 
+Objetivo: Responder correctamente a 9 preguntas sobre las capitales de Europa, las preguntas son a respuesta cerrada y se dividen en sencillas, medianas y complejas. 
 
 ### ENLACE PRESENTACIÓN PROYECTO: ###
 https://www.canva.com/design/DAGUj5ipLDE/jkHzSBpv0uJmoX5CSLJRRQ/edit
@@ -41,7 +41,7 @@ Si el jugador pierde todas las vidas, se mostrará un mensaje de despedida: "Has
 	•	Arianna Rassu
 	•	Fátima González
 	•	Mónica García Jiménez
-	•	Sara D, Riobello
+	•	Sara D. Riobello
 
 ### Posibles ampliaciones: ###
 
